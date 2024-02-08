@@ -14,8 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images/screenshot.png)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-with-tailwind-css-grEcynvdj8](https://www.frontendmentor.io/solutions/order-summary-component-with-tailwind-css-grEcynvdj8)
+- Live Site URL: [https://ninhos0.github.io/order-summary-component-main/](https://ninhos0.github.io/order-summary-component-main/)
 
 ## My process
 
@@ -45,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned how to implement and configure tailwind css for my project patterns, as in this project I applied the colors provided for the application in the tailwind css settings, like the example below:
 
 ```html
 <script>
@@ -65,16 +63,13 @@ Use this section to recap over some of your major learnings while working throug
         },
       },
     },
-    screen: {
-      xs: "425px",
-    },
   };
 </script>
 ```
 
 ### Useful resources
 
-- [Tailwind](https://tailwindcss.com/) - O Tailwind me auxiliou no processo de estilização do meu projeto.
+- [Tailwind](https://tailwindcss.com/) - Tailwind helped me with the styling process for my project.
 
 ## Author
 

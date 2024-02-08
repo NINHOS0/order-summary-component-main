@@ -18,3 +18,5 @@ README_pt.md
 .DS_Store
 .prettierignore
 .vscode
+style-guide.md
+tailwind.config.js
